@@ -1,0 +1,5 @@
+project: rnshah9/mksh
+target: mksh
+
+cmds:
+  - cmd: /repo/mksh @@
