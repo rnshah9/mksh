@@ -1,4 +1,4 @@
-project: rnshah9/mksh
+project: mksh
 target: mksh
 
 cmds:
