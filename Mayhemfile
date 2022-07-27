@@ -2,4 +2,4 @@ project: mksh
 target: mksh
 
 cmds:
-  - cmd: /repo/mksh @@
+  - cmd: /mksh @@
